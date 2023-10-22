@@ -1,0 +1,3 @@
+direct PDF printing guide and all the relevant downloads are in below mentioned link
+
+https://stackoverflow.com/questions/27195594/python-silent-print-pdf-to-specific-printer
